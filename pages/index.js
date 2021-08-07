@@ -316,7 +316,7 @@ export default function Home() {
             <h1 className="text-3xl text-center">
               Tetap up-to-date dengan apa yang kami lakukan
             </h1>
-            <div className="flex flex-col justify-center sm:flex-row gap-6 mt-8">
+            <div className="flex justify-center sm:flex-row gap-6 mt-8">
               <a href="https://wa.me/085933005036">
                 <button
                   type="button"
