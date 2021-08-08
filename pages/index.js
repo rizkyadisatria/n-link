@@ -317,7 +317,7 @@ export default function Home() {
               Tetap up-to-date dengan apa yang kami lakukan
             </h1>
             <div className="flex justify-center sm:flex-row gap-6 mt-8">
-              <a href="https://wa.me/085933005036">
+              <a href="https://wa.me/+6285933005036">
                 <button
                   type="button"
                   className="shadow-md py-3 px-6 rounded-md transition duration-300 bg-nlink-red hover:bg-nlink-white hover:text-black"
@@ -336,7 +336,7 @@ export default function Home() {
             <h1 className="text-nlink-white">N-Link</h1>
           </div>
           <div className="flex gap-10 mt-5 md:mt-0 cursor-pointer">
-            <a href="https://wa.me/085933005036">
+            <a href="https://wa.me/+6285933005036">
               <img src="/whatsapp.png" />
             </a>
             <a href="https://gmail.com">
